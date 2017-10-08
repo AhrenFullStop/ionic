@@ -80,6 +80,8 @@ import { UIEventManager } from '../../gestures/ui-event-manager';
  *   </ion-item>
  * </ion-list>
  * ```
+ * ### In a TypeScript document fetch the value by:
+ * ratio? NgModel? Explain... 
  *
  *
  * @demo /docs/demos/src/range/
